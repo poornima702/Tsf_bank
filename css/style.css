@@ -1,0 +1,53 @@
+
+
+.bank{
+    height: 50px;
+    padding:2px;
+}
+.navbar-custom{
+    background-color:darkkhaki;
+}
+.navbar-nav{
+    color:black;
+    
+}
+
+
+    .image{
+        padding-top:20px;
+        background-color: darkgoldenrod;
+
+    }
+    p{
+        text-align: center;
+    }
+    .footer {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        background-color:darkkhaki;
+        color:black;
+        text-align: center;
+      }
+      .caption{
+          text-align: center;
+          
+      }
+     
+      
+      h1{
+          text-align: center;
+          
+      }
+      span{
+          color:black;
+          font-size: xx-large;
+          padding-top: 20px;
+          
+      }
+     
+      .row{
+      background-color: rgb(145, 119, 110);
+      padding:20px;
+      }
